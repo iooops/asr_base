@@ -3,4 +3,4 @@ torchaudio
 Flask==2.0.3
 pytorch_lightning==1.5.10
 modelscope==1.8.1
-funasr==0.7.3
+funasr
